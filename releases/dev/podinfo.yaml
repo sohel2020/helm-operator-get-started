@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: sohel2020/podinfo:dev-5m00ljkg
+    image: sohel2020/podinfo:dev-ja1vtg7k
     replicaCount: 2
     hpa:
       enabled: false
